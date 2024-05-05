@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://google.com",
+        "interval": 10,
+        "regex_pattern": "Example"
+    },
+    {
+        "url": "https://bing.com",
+        "interval": 5,
+        "regex_pattern": "Ask"
+    },
+    {
+        "url": "https://duckduckgo.com/",
+        "interval": 15,
+        "regex_pattern": "\bworldwide\b"
+    },
+    {
+        "url": "https://github.com/",
+        "interval": 30,
+        "regex_pattern": null
+    },
+    {
+        "url": "http://tirafikimirafiki.com/",
+        "interval": 10,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://canartuc.com",
+        "interval": 60,
+        "regex_pattern": "<h2><span class=\"color steel\">(.*?)</span></h2>\n"
+    }
+]

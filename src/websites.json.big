@@ -1,0 +1,4997 @@
+[
+    {
+        "url": "https://fonts.googleapis.com",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://facebook.com",
+        "interval": 163,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://twitter.com",
+        "interval": 119,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.com",
+        "interval": 110,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://youtube.com",
+        "interval": 98,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s.w.org",
+        "interval": 119,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://instagram.com",
+        "interval": 15,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://googletagmanager.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://linkedin.com",
+        "interval": 270,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ajax.googleapis.com",
+        "interval": 26,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://plus.google.com",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gmpg.org",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pinterest.com",
+        "interval": 179,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fonts.gstatic.com",
+        "interval": 52,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wordpress.org",
+        "interval": 130,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://en.wikipedia.org",
+        "interval": 158,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://youtu.be",
+        "interval": 13,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://maps.google.com",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://itunes.apple.com",
+        "interval": 114,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://github.com",
+        "interval": 143,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bit.ly",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://play.google.com",
+        "interval": 21,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://goo.gl",
+        "interval": 108,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://docs.google.com",
+        "interval": 148,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cdnjs.cloudflare.com",
+        "interval": 15,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vimeo.com",
+        "interval": 133,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://support.google.com",
+        "interval": 38,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google-analytics.com",
+        "interval": 160,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://maps.googleapis.com",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flickr.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vk.com",
+        "interval": 68,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://t.co",
+        "interval": 139,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://reddit.com",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.com",
+        "interval": 108,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://medium.com",
+        "interval": 246,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sites.google.com",
+        "interval": 241,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://drive.google.com",
+        "interval": 290,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://creativecommons.org",
+        "interval": 218,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://microsoft.com",
+        "interval": 11,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://developers.google.com",
+        "interval": 213,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adobe.com",
+        "interval": 52,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://soundcloud.com",
+        "interval": 138,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://theguardian.com",
+        "interval": 243,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://apis.google.com",
+        "interval": 248,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ec.europa.eu",
+        "interval": 153,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lh3.googleusercontent.com",
+        "interval": 26,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chrome.google.com",
+        "interval": 64,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cloudflare.com",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nytimes.com",
+        "interval": 37,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://maxcdn.bootstrapcdn.com",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://support.microsoft.com",
+        "interval": 39,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogger.com",
+        "interval": 160,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://forbes.com",
+        "interval": 86,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s3.amazonaws.com",
+        "interval": 10,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://code.jquery.com",
+        "interval": 203,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dropbox.com",
+        "interval": 256,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://translate.google.com",
+        "interval": 182,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://paypal.com",
+        "interval": 187,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://apps.apple.com",
+        "interval": 236,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tinyurl.com",
+        "interval": 247,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://etsy.com",
+        "interval": 121,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://theatlantic.com",
+        "interval": 113,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://m.facebook.com",
+        "interval": 224,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://archive.org",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amzn.to",
+        "interval": 95,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cnn.com",
+        "interval": 84,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://policies.google.com",
+        "interval": 38,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://commons.wikimedia.org",
+        "interval": 204,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://issuu.com",
+        "interval": 78,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://i.imgur.com",
+        "interval": 257,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wordpress.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wp.me",
+        "interval": 17,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://businessinsider.com",
+        "interval": 104,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yelp.com",
+        "interval": 114,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mail.google.com",
+        "interval": 74,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://support.apple.com",
+        "interval": 93,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://t.me",
+        "interval": 112,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://apple.com",
+        "interval": 105,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://washingtonpost.com",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bbc.com",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gstatic.com",
+        "interval": 287,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://imgur.com",
+        "interval": 124,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.de",
+        "interval": 6,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bbc.co.uk",
+        "interval": 92,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://googleads.g.doubleclick.net",
+        "interval": 256,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mozilla.org",
+        "interval": 207,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eventbrite.com",
+        "interval": 76,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://slideshare.net",
+        "interval": 271,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://w3.org",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://forms.gle",
+        "interval": 218,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://platform.twitter.com",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://accounts.google.com",
+        "interval": 112,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://telegraph.co.uk",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://messenger.com",
+        "interval": 93,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://web.archive.org",
+        "interval": 164,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://secure.gravatar.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://usatoday.com",
+        "interval": 37,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://huffingtonpost.com",
+        "interval": 81,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stackoverflow.com",
+        "interval": 161,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fb.com",
+        "interval": 74,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://npr.org",
+        "interval": 16,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://techcrunch.com",
+        "interval": 178,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wired.com",
+        "interval": 201,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eepurl.com",
+        "interval": 232,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://reuters.com",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://arxiv.org",
+        "interval": 13,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://i0.wp.com",
+        "interval": 215,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://finance.yahoo.com",
+        "interval": 75,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://player.vimeo.com",
+        "interval": 114,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.fr",
+        "interval": 42,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://developer.mozilla.org",
+        "interval": 43,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tumblr.com",
+        "interval": 265,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cnbc.com",
+        "interval": 273,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://booking.com",
+        "interval": 214,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zoom.us",
+        "interval": 113,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tools.google.com",
+        "interval": 191,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wa.me",
+        "interval": 114,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://paypal.me",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://slack.com",
+        "interval": 139,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adwords.google.com",
+        "interval": 35,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://independent.co.uk",
+        "interval": 35,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://discord.gg",
+        "interval": 276,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://open.spotify.com",
+        "interval": 198,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tripadvisor.com",
+        "interval": 42,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gsuite.google.com",
+        "interval": 14,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://behance.net",
+        "interval": 278,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thinkwithgoogle.com",
+        "interval": 290,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://who.int",
+        "interval": 88,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cloud.google.com",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://calendar.google.com",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ibm.com",
+        "interval": 299,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://analytics.google.com",
+        "interval": 92,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lh5.googleusercontent.com",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://docs.microsoft.com",
+        "interval": 168,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://groups.google.com",
+        "interval": 141,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mixcloud.com",
+        "interval": 210,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.co.in",
+        "interval": 98,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://latimes.com",
+        "interval": 78,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gist.github.com",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://download.macromedia.com",
+        "interval": 221,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dailymail.co.uk",
+        "interval": 203,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://myaccount.google.com",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://line.me",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://unsplash.com",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://addons.mozilla.org",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://msdn.microsoft.com",
+        "interval": 236,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://storage.googleapis.com",
+        "interval": 112,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com",
+        "interval": 151,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cdn.jsdelivr.net",
+        "interval": 49,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://g.co",
+        "interval": 190,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://meetup.com",
+        "interval": 90,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bloomberg.com",
+        "interval": 82,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://books.google.com",
+        "interval": 262,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vox.com",
+        "interval": 90,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://imdb.com",
+        "interval": 217,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://arstechnica.com",
+        "interval": 225,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://support.mozilla.org",
+        "interval": 31,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.co.uk",
+        "interval": 60,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://statista.com",
+        "interval": 296,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.ca",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nbcnews.com",
+        "interval": 33,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://steemit.com",
+        "interval": 245,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://upload.wikimedia.org",
+        "interval": 274,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://aws.amazon.com",
+        "interval": 272,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.co.jp",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://w3schools.com",
+        "interval": 115,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://weibo.com",
+        "interval": 112,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://twitch.tv",
+        "interval": 185,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://moz.com",
+        "interval": 129,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://drupal.org",
+        "interval": 167,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nypost.com",
+        "interval": 290,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fr.wikipedia.org",
+        "interval": 121,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ebay.com",
+        "interval": 123,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sourceforge.net",
+        "interval": 300,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://godaddy.com",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ncbi.nlm.nih.gov",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wsj.com",
+        "interval": 143,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thenextweb.com",
+        "interval": 250,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cdc.gov",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://photos.google.com",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://trends.google.com",
+        "interval": 253,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://opera.com",
+        "interval": 277,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ftc.gov",
+        "interval": 78,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://j.mp",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://about.me",
+        "interval": 121,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gov.uk",
+        "interval": 258,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://i.ytimg.com",
+        "interval": 299,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://squareup.com",
+        "interval": 99,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.co.uk",
+        "interval": 161,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://buzzfeed.com",
+        "interval": 247,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://developer.apple.com",
+        "interval": 270,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pixabay.com",
+        "interval": 190,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://quora.com",
+        "interval": 164,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cnet.com",
+        "interval": 141,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.com.au",
+        "interval": 186,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://myspace.com",
+        "interval": 223,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://theglobeandmail.com",
+        "interval": 5,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://shopify.com",
+        "interval": 230,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://whitehouse.gov",
+        "interval": 80,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://marketingplatform.google.com",
+        "interval": 233,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://kickstarter.com",
+        "interval": 251,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://freelancer.com",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://evernote.com",
+        "interval": 266,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gmail.com",
+        "interval": 83,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://static.wixstatic.com",
+        "interval": 124,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fortune.com",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wix.com",
+        "interval": 226,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dailymotion.com",
+        "interval": 178,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://goodreads.com",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://podcasts.google.com",
+        "interval": 228,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.co.jp",
+        "interval": 142,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://support.cloudflare.com",
+        "interval": 216,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://surveymonkey.com",
+        "interval": 227,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cbsnews.com",
+        "interval": 229,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://entrepreneur.com",
+        "interval": 56,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bing.com",
+        "interval": 119,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://engadget.com",
+        "interval": 230,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lh4.googleusercontent.com",
+        "interval": 269,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tandfonline.com",
+        "interval": 269,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cargocollective.com",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://join.slack.com",
+        "interval": 264,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://api.whatsapp.com",
+        "interval": 28,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://shutterstock.com",
+        "interval": 61,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pbs.twimg.com",
+        "interval": 85,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.google",
+        "interval": 9,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ads.google.com",
+        "interval": 65,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://time.com",
+        "interval": 63,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lifehacker.com",
+        "interval": 14,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://patreon.com",
+        "interval": 236,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://scribd.com",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lh6.googleusercontent.com",
+        "interval": 65,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://feeds.feedburner.com",
+        "interval": 73,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://trello.com",
+        "interval": 37,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ted.com",
+        "interval": 232,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://helpx.adobe.com",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://researchgate.net",
+        "interval": 53,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fda.gov",
+        "interval": 153,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://instructables.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.de",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://digitalocean.com",
+        "interval": 9,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dribbble.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ssl.gstatic.com",
+        "interval": 140,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://variety.com",
+        "interval": 232,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://indiegogo.com",
+        "interval": 56,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://salesforce.com",
+        "interval": 48,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://uk.linkedin.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nasa.gov",
+        "interval": 136,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://codepen.io",
+        "interval": 10,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://newyorker.com",
+        "interval": 229,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://abcnews.go.com",
+        "interval": 24,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://snapchat.com",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://googleadservices.com",
+        "interval": 272,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sciencedirect.com",
+        "interval": 260,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ft.com",
+        "interval": 33,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nature.com",
+        "interval": 94,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gofundme.com",
+        "interval": 79,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://500px.com",
+        "interval": 22,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://qz.com",
+        "interval": 57,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dl.dropboxusercontent.com",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://store.steampowered.com",
+        "interval": 248,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://webmasters.googleblog.com",
+        "interval": 124,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://podcasts.apple.com",
+        "interval": 167,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://oracle.com",
+        "interval": 173,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://m.youtube.com",
+        "interval": 289,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gartner.com",
+        "interval": 258,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://web.facebook.com",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogs.msdn.com",
+        "interval": 179,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mailchi.mp",
+        "interval": 204,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://digg.com",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://skype.com",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://periscope.tv",
+        "interval": 64,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.com.br",
+        "interval": 69,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://googleblog.blogspot.com",
+        "interval": 185,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://de.wikipedia.org",
+        "interval": 228,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://search.google.com",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://npmjs.com",
+        "interval": 217,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://motherboard.vice.com",
+        "interval": 62,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://aboutads.info",
+        "interval": 205,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pexels.com",
+        "interval": 80,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sxsw.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fiverr.com",
+        "interval": 28,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://code.google.com",
+        "interval": 74,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cbc.ca",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://venturebeat.com",
+        "interval": 141,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hangouts.google.com",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mashable.com",
+        "interval": 236,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://upwork.com",
+        "interval": 101,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bitly.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://music.apple.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://loc.gov",
+        "interval": 151,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.google.com",
+        "interval": 127,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://spotify.com",
+        "interval": 147,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://netflix.com",
+        "interval": 269,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hbr.org",
+        "interval": 96,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pbs.org",
+        "interval": 207,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stumbleupon.com",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://walmart.com",
+        "interval": 124,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://foursquare.com",
+        "interval": 152,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.ca",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tiny.cc",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://services.google.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://xkcd.com",
+        "interval": 186,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://target.com",
+        "interval": 12,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://developers.facebook.com",
+        "interval": 267,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nginx.com",
+        "interval": 110,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://canva.com",
+        "interval": 86,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s7.addthis.com",
+        "interval": 103,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://elmundo.es",
+        "interval": 192,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://i2.wp.com",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gizmodo.com",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://expedia.com",
+        "interval": 27,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://picasaweb.google.com",
+        "interval": 151,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://money.cnn.com",
+        "interval": 284,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://timesofindia.indiatimes.com",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yandex.ru",
+        "interval": 244,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vice.com",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://de-de.facebook.com",
+        "interval": 284,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pastebin.com",
+        "interval": 233,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://samsung.com",
+        "interval": 224,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rt.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ifttt.com",
+        "interval": 124,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dev.mysql.com",
+        "interval": 39,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://giphy.com",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://use.fontawesome.com",
+        "interval": 207,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://houzz.com",
+        "interval": 135,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://developer.android.com",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wikipedia.org",
+        "interval": 292,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://speakerdeck.com",
+        "interval": 209,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://productforums.google.com",
+        "interval": 223,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://digitaltrends.com",
+        "interval": 158,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://steamcommunity.com",
+        "interval": 69,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://canada.ca",
+        "interval": 247,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://networkadvertising.org",
+        "interval": 190,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://linktr.ee",
+        "interval": 96,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://calendly.com",
+        "interval": 134,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lg.com",
+        "interval": 283,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yahoo.com",
+        "interval": 205,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://last.fm",
+        "interval": 83,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.es",
+        "interval": 218,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://businesswire.com",
+        "interval": 181,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://deezer.com",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dx.doi.org",
+        "interval": 72,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://udemy.com",
+        "interval": 283,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://edition.cnn.com",
+        "interval": 261,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://1.bp.blogspot.com",
+        "interval": 85,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://l.facebook.com",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dl.dropbox.com",
+        "interval": 206,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://store.google.com",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gumroad.com",
+        "interval": 265,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://azure.microsoft.com",
+        "interval": 147,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://i1.wp.com",
+        "interval": 33,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ubuntu.com",
+        "interval": 299,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.ru",
+        "interval": 220,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://makeuseof.com",
+        "interval": 54,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://raw.githubusercontent.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://airbnb.com",
+        "interval": 222,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bluehost.com",
+        "interval": 204,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://deviantart.com",
+        "interval": 243,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pewresearch.org",
+        "interval": 150,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.cn",
+        "interval": 131,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://profiles.google.com",
+        "interval": 220,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://login.microsoftonline.com",
+        "interval": 272,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.nl",
+        "interval": 210,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.es",
+        "interval": 106,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fastcompany.com",
+        "interval": 249,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://is.gd",
+        "interval": 38,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://telegram.me",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mediafire.com",
+        "interval": 195,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://themeforest.net",
+        "interval": 89,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://openstreetmap.org",
+        "interval": 289,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pewinternet.org",
+        "interval": 65,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://photos.app.goo.gl",
+        "interval": 76,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://buff.ly",
+        "interval": 64,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://events.google.com",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://link.springer.com",
+        "interval": 224,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bizjournals.com",
+        "interval": 141,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://residentadvisor.net",
+        "interval": 24,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://golang.org",
+        "interval": 177,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vogue.com",
+        "interval": 183,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s3-eu-west-1.amazonaws.com",
+        "interval": 42,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://boardgamegeek.com",
+        "interval": 30,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://un.org",
+        "interval": 164,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://i.redd.it",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ad.doubleclick.net",
+        "interval": 51,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ow.ly",
+        "interval": 130,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://get.google.com",
+        "interval": 135,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pt.slideshare.net",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://buffer.com",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mozilla.com",
+        "interval": 89,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chromium.org",
+        "interval": 292,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://patheos.com",
+        "interval": 243,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ancestry.com",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://youtube-nocookie.com",
+        "interval": 265,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://barnesandnoble.com",
+        "interval": 52,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amzn.com",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hulu.com",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://greenpeace.org",
+        "interval": 188,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://spiegel.de",
+        "interval": 149,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://apps.facebook.com",
+        "interval": 43,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://census.gov",
+        "interval": 83,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://app.box.com",
+        "interval": 78,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://windows.microsoft.com",
+        "interval": 74,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yandex.com",
+        "interval": 79,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sketchfab.com",
+        "interval": 24,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://avvo.com",
+        "interval": 122,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://searchengineland.com",
+        "interval": 49,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://shareasale.com",
+        "interval": 60,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://abc.net.au",
+        "interval": 9,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://trustpilot.com",
+        "interval": 240,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://plaza.rakuten.co.jp",
+        "interval": 133,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://marriott.com",
+        "interval": 51,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.it",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ca.linkedin.com",
+        "interval": 198,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://uber.com",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://coursera.org",
+        "interval": 172,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adage.com",
+        "interval": 72,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://foxnews.com",
+        "interval": 192,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flic.kr",
+        "interval": 262,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://developer.chrome.com",
+        "interval": 106,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pl.wikipedia.org",
+        "interval": 257,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://change.org",
+        "interval": 55,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://spreaker.com",
+        "interval": 47,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://filezilla-project.org",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flipboard.com",
+        "interval": 288,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pcworld.com",
+        "interval": 277,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.yahoo.com",
+        "interval": 188,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pitchfork.com",
+        "interval": 10,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://weforum.org",
+        "interval": 285,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://istockphoto.com",
+        "interval": 277,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://9to5mac.com",
+        "interval": 80,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://1drv.ms",
+        "interval": 223,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://uspto.gov",
+        "interval": 276,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://irs.gov",
+        "interval": 214,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://copyblogger.com",
+        "interval": 205,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://example.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://maps.google.co.jp",
+        "interval": 98,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fonts.google.com",
+        "interval": 189,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://siteground.com",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sony.net",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ja.wikipedia.org",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://creativemarket.com",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://smithsonianmag.com",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mobile.twitter.com",
+        "interval": 291,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://acm.org",
+        "interval": 120,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://accenture.com",
+        "interval": 230,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://git-scm.com",
+        "interval": 88,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bbb.org",
+        "interval": 144,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cdn.shopify.com",
+        "interval": 277,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://schema.org",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://psychologytoday.com",
+        "interval": 90,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://redcross.org",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nodejs.org",
+        "interval": 24,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://europa.eu",
+        "interval": 289,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ameblo.jp",
+        "interval": 140,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gitlab.com",
+        "interval": 230,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sciencemag.org",
+        "interval": 135,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hollywoodreporter.com",
+        "interval": 174,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://freshbooks.com",
+        "interval": 271,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://heise.de",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chicagotribune.com",
+        "interval": 159,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://epa.gov",
+        "interval": 170,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://anchor.fm",
+        "interval": 17,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://telegram.org",
+        "interval": 61,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ikea.com",
+        "interval": 96,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bloglovin.com",
+        "interval": 279,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eventbrite.co.uk",
+        "interval": 65,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://googlewebmastercentral.blogspot.com",
+        "interval": 111,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://huffpost.com",
+        "interval": 37,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://weebly.com",
+        "interval": 79,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://producthunt.com",
+        "interval": 152,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.fr",
+        "interval": 93,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://click.linksynergy.com",
+        "interval": 5,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vanityfair.com",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://diigo.com",
+        "interval": 7,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://about.fb.com",
+        "interval": 164,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ouest-france.fr",
+        "interval": 6,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://namecheap.com",
+        "interval": 214,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://codecanyon.net",
+        "interval": 228,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://appstore.com",
+        "interval": 146,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tools.ietf.org",
+        "interval": 39,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rockpapershotgun.com",
+        "interval": 177,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://columbia.edu",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://constantcontact.com",
+        "interval": 167,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://webmd.com",
+        "interval": 33,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eur-lex.europa.eu",
+        "interval": 138,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://aliexpress.com",
+        "interval": 255,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://business.facebook.com",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://material.io",
+        "interval": 76,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://neilpatel.com",
+        "interval": 153,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://discordapp.com",
+        "interval": 47,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://m.me",
+        "interval": 173,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://design.google",
+        "interval": 63,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://francetvinfo.fr",
+        "interval": 162,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://slashgear.com",
+        "interval": 58,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://4shared.com",
+        "interval": 187,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://python.org",
+        "interval": 108,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.com.au",
+        "interval": 172,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://storify.com",
+        "interval": 289,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://elegantthemes.com",
+        "interval": 172,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://europe1.fr",
+        "interval": 147,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pwc.com",
+        "interval": 133,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://activecampaign.com",
+        "interval": 141,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://freepik.com",
+        "interval": 107,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ravelry.com",
+        "interval": 246,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://apnews.com",
+        "interval": 228,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://propublica.org",
+        "interval": 195,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://smugmug.com",
+        "interval": 187,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://inc.com",
+        "interval": 243,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.it",
+        "interval": 94,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zazzle.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dol.gov",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://scoop.it",
+        "interval": 48,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bit.do",
+        "interval": 253,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yadi.sk",
+        "interval": 97,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eclipse.org",
+        "interval": 194,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://economist.com",
+        "interval": 296,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://xing.com",
+        "interval": 246,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hbo.com",
+        "interval": 220,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nationalgeographic.com",
+        "interval": 227,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://jetbrains.com",
+        "interval": 68,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://iconfinder.com",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cafepress.com",
+        "interval": 249,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://strava.com",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://es.wikipedia.org",
+        "interval": 110,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://kiva.org",
+        "interval": 269,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://doi.org",
+        "interval": 123,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://boredpanda.com",
+        "interval": 177,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://justgiving.com",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pinterest.ca",
+        "interval": 185,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stats.wp.com",
+        "interval": 24,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zdnet.com",
+        "interval": 120,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sproutsocial.com",
+        "interval": 91,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rebrand.ly",
+        "interval": 240,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ranker.com",
+        "interval": 56,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://a.co",
+        "interval": 300,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://waze.com",
+        "interval": 162,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nydailynews.com",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://marketwatch.com",
+        "interval": 232,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mailchimp.com",
+        "interval": 143,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://livescience.com",
+        "interval": 243,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flaticon.com",
+        "interval": 207,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ilpost.it",
+        "interval": 60,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://connect.facebook.net",
+        "interval": 110,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://4.bp.blogspot.com",
+        "interval": 155,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://maps.google.co.nz",
+        "interval": 213,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s0.wp.com",
+        "interval": 120,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.com.br",
+        "interval": 162,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ustream.tv",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lulu.com",
+        "interval": 287,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://socialmediatoday.com",
+        "interval": 197,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://market.android.com",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rollingstone.com",
+        "interval": 204,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://journals.sagepub.com",
+        "interval": 225,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zillow.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://xinhuanet.com",
+        "interval": 246,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://affiliate-program.amazon.com",
+        "interval": 55,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://politico.com",
+        "interval": 23,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pnas.org",
+        "interval": 82,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://laughingsquid.com",
+        "interval": 203,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://access.redhat.com",
+        "interval": 99,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s.ytimg.com",
+        "interval": 210,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://it.linkedin.com",
+        "interval": 183,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dashlane.com",
+        "interval": 57,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://copyright.gov",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.bbc.co.uk",
+        "interval": 29,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mentalfloss.com",
+        "interval": 107,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zeit.de",
+        "interval": 86,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.cz",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://artsandculture.google.com",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://startnext.com",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://launchpad.net",
+        "interval": 296,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lemonde.fr",
+        "interval": 101,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sciencedaily.com",
+        "interval": 277,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://edx.org",
+        "interval": 75,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://smashwords.com",
+        "interval": 49,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://philips.co.uk",
+        "interval": 191,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://smile.amazon.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://intel.com",
+        "interval": 99,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://livestream.com",
+        "interval": 143,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://brookings.edu",
+        "interval": 252,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thehill.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://popsci.com",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.us.playstation.com",
+        "interval": 63,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fb.me",
+        "interval": 46,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://academic.oup.com",
+        "interval": 71,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://php.net",
+        "interval": 150,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wetransfer.com",
+        "interval": 172,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.livedoor.jp",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amazon.in",
+        "interval": 266,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://families.google.com",
+        "interval": 155,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://obsproject.com",
+        "interval": 21,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://t.qq.com",
+        "interval": 256,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://android.com",
+        "interval": 55,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogs.windows.com",
+        "interval": 264,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hostgator.com",
+        "interval": 46,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.gr",
+        "interval": 122,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://theverge.com",
+        "interval": 232,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://aub.edu.lb",
+        "interval": 221,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://digiday.com",
+        "interval": 206,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gimp.org",
+        "interval": 197,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://treasury.gov",
+        "interval": 251,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://geocities.com",
+        "interval": 183,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://healthline.com",
+        "interval": 17,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://3.bp.blogspot.com",
+        "interval": 137,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://coinbase.com",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gnu.org",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://abc.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://aljazeera.com",
+        "interval": 37,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://getresponse.com",
+        "interval": 245,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dev.to",
+        "interval": 115,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thesun.co.uk",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lynda.com",
+        "interval": 264,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sellfy.com",
+        "interval": 101,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://prnt.sc",
+        "interval": 17,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://help.ubuntu.com",
+        "interval": 99,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://whatsapp.com",
+        "interval": 40,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://www8.hp.com",
+        "interval": 173,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://notion.so",
+        "interval": 285,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vmware.com",
+        "interval": 286,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://kraken.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vine.co",
+        "interval": 237,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://marthastewart.com",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://discord.me",
+        "interval": 168,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dailycaller.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mega.nz",
+        "interval": 14,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://media.giphy.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flavors.me",
+        "interval": 35,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blip.tv",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://prntscr.com",
+        "interval": 45,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://journals.plos.org",
+        "interval": 128,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gravatar.com",
+        "interval": 21,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://discogs.com",
+        "interval": 274,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://europarl.europa.eu",
+        "interval": 11,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://redhat.com",
+        "interval": 177,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bugs.chromium.org",
+        "interval": 92,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vanmiubeauty.com",
+        "interval": 128,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://metro.co.uk",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.ie",
+        "interval": 158,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://relapse.com",
+        "interval": 161,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://earth.google.com",
+        "interval": 275,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bandcamp.com",
+        "interval": 125,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://br.linkedin.com",
+        "interval": 110,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gopro.com",
+        "interval": 247,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://t.ly",
+        "interval": 239,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://get.adobe.com",
+        "interval": 120,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.mit.edu",
+        "interval": 161,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://billboard.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://britannica.com",
+        "interval": 89,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://onlinelibrary.wiley.com",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://techsmith.com",
+        "interval": 11,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sfgate.com",
+        "interval": 70,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://redbubble.com",
+        "interval": 167,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://kstatic.googleusercontent.com",
+        "interval": 291,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://repubblica.it",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://disqus.com",
+        "interval": 295,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://khanacademy.org",
+        "interval": 160,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://skfb.ly",
+        "interval": 114,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://androidauthority.com",
+        "interval": 223,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://accessify.com",
+        "interval": 63,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tensorflow.org",
+        "interval": 137,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chrisjdavis.org",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://box.net",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://poetryfoundation.org",
+        "interval": 218,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://law.cornell.edu",
+        "interval": 113,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://penguinrandomhouse.com",
+        "interval": 192,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://refinery29.com",
+        "interval": 178,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://starwars.com",
+        "interval": 127,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fr.linkedin.com",
+        "interval": 94,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://video.google.com",
+        "interval": 123,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://prnewswire.com",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://springer.com",
+        "interval": 61,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zalo.me",
+        "interval": 188,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://reverbnation.com",
+        "interval": 194,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://getpocket.com",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://webdesign.about.com",
+        "interval": 178,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://goo.gle",
+        "interval": 150,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://note.mu",
+        "interval": 226,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thetimes.co.uk",
+        "interval": 119,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fao.org",
+        "interval": 278,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bol.com",
+        "interval": 12,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yoursite.com",
+        "interval": 286,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sophos.com",
+        "interval": 14,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://automattic.com",
+        "interval": 232,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://podbean.com",
+        "interval": 152,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sublimetext.com",
+        "interval": 194,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://archives.gov",
+        "interval": 69,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vizio.com",
+        "interval": 233,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thelancet.com",
+        "interval": 37,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://guardian.co.uk",
+        "interval": 12,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.nationalgeographic.com",
+        "interval": 204,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tunein.com",
+        "interval": 47,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stitcher.com",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://coinmarketcap.com",
+        "interval": 203,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amnestyusa.org",
+        "interval": 177,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://docs.wixstatic.com",
+        "interval": 274,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cambridge.org",
+        "interval": 294,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://validator.w3.org",
+        "interval": 227,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://asus.com",
+        "interval": 38,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://problogger.net",
+        "interval": 155,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://worldbank.org",
+        "interval": 258,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ticketportal.cz",
+        "interval": 67,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dw.com",
+        "interval": 222,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://static.googleusercontent.com",
+        "interval": 7,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://www-01.ibm.com",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://business.google.com",
+        "interval": 192,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://es.linkedin.com",
+        "interval": 223,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://songkick.com",
+        "interval": 289,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adweek.com",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lifehack.org",
+        "interval": 30,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://apple.co",
+        "interval": 254,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sutterhealth.org",
+        "interval": 107,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://globalnews.ca",
+        "interval": 190,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://breitbart.com",
+        "interval": 275,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thumbtack.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eff.org",
+        "interval": 125,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://snopes.com",
+        "interval": 241,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://crowdrise.com",
+        "interval": 258,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hkrsa.asia",
+        "interval": 8,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://metmuseum.org",
+        "interval": 42,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pixlr.com",
+        "interval": 159,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://institutvajrayogini.fr",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rhtlbn.mosgorcredit.ru",
+        "interval": 26,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://itchyfeetonthecheap.com",
+        "interval": 291,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://reacts.ru",
+        "interval": 140,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://db.tt",
+        "interval": 137,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://udacity.com",
+        "interval": 158,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://we.tl",
+        "interval": 276,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogtalkradio.com",
+        "interval": 77,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://audacityteam.org",
+        "interval": 85,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://youcaring.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hp.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://0.gravatar.com",
+        "interval": 123,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://health.harvard.edu",
+        "interval": 10,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://meta.wikimedia.org",
+        "interval": 62,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.ch",
+        "interval": 175,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nhs.uk",
+        "interval": 112,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mixi.jp",
+        "interval": 6,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://symfony.com",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://business.linkedin.com",
+        "interval": 80,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mtv.com",
+        "interval": 297,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://1.gravatar.com",
+        "interval": 85,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cyber.law.harvard.edu",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bitcointalk.org",
+        "interval": 104,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://esa.int",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://slate.com",
+        "interval": 251,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://oecd.org",
+        "interval": 253,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://raspberrypi.org",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sfexaminer.com",
+        "interval": 101,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://warriorforum.com",
+        "interval": 134,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://g.page",
+        "interval": 238,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bhphotovideo.com",
+        "interval": 41,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://axios.com",
+        "interval": 260,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pinterest.co.uk",
+        "interval": 18,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://unesco.org",
+        "interval": 234,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://msn.com",
+        "interval": 170,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://code.visualstudio.com",
+        "interval": 215,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://netbeans.org",
+        "interval": 212,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blockchain.info",
+        "interval": 245,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://untappd.com",
+        "interval": 51,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://espn.com",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cbs.com",
+        "interval": 250,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://michigan.gov",
+        "interval": 268,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://oprah.com",
+        "interval": 188,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ok.ru",
+        "interval": 270,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mhlw.go.jp",
+        "interval": 272,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://newegg.com",
+        "interval": 292,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://2.bp.blogspot.com",
+        "interval": 281,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pipes.yahoo.com",
+        "interval": 186,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://themarthablog.com",
+        "interval": 213,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://yummly.com",
+        "interval": 64,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bitpay.com",
+        "interval": 269,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://buymeacoffee.com",
+        "interval": 171,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://deepl.com",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogs.scientificamerican.com",
+        "interval": 15,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://audible.com",
+        "interval": 106,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bitbucket.org",
+        "interval": 57,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://it.wikipedia.org",
+        "interval": 195,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://in.linkedin.com",
+        "interval": 93,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cse.google.com",
+        "interval": 275,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://use.typekit.net",
+        "interval": 293,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ru.wikipedia.org",
+        "interval": 135,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://faz.net",
+        "interval": 56,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adf.ly",
+        "interval": 44,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cancerresearchuk.org",
+        "interval": 243,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://moma.org",
+        "interval": 286,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bigthink.com",
+        "interval": 241,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bandsintown.com",
+        "interval": 70,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://addthis.com",
+        "interval": 93,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://support.office.com",
+        "interval": 206,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://upi.com",
+        "interval": 264,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://zen.yandex.ru",
+        "interval": 73,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://collegehumor.com",
+        "interval": 90,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lefigaro.fr",
+        "interval": 204,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gplus.to",
+        "interval": 67,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://themify.me",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rtve.es",
+        "interval": 213,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nba.com",
+        "interval": 85,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://myfitnesspal.com",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chris.pirillo.com",
+        "interval": 50,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eonline.com",
+        "interval": 5,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://science.sciencemag.org",
+        "interval": 33,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ietf.org",
+        "interval": 56,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ko-fi.com",
+        "interval": 142,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://otto.de",
+        "interval": 60,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tkqlhce.com",
+        "interval": 95,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://unity3d.com",
+        "interval": 202,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.naver.com",
+        "interval": 229,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://scratch.mit.edu",
+        "interval": 234,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://freewebs.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://drift.com",
+        "interval": 98,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://postmates.com",
+        "interval": 180,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://geek.com",
+        "interval": 65,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://geocities.jp",
+        "interval": 256,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://beian.gov.cn",
+        "interval": 163,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://meet.google.com",
+        "interval": 83,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flattr.com",
+        "interval": 157,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://webroot.com",
+        "interval": 250,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thoughtcatalog.com",
+        "interval": 197,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.pl",
+        "interval": 221,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://seroundtable.com",
+        "interval": 59,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://checkpoint.com",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://form.jotform.com",
+        "interval": 237,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://xbox.com",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://infusionsoft.com",
+        "interval": 237,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://g1.globo.com",
+        "interval": 276,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://capterra.com",
+        "interval": 108,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ea.com",
+        "interval": 28,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hawaii.edu",
+        "interval": 285,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stock.adobe.com",
+        "interval": 53,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://osha.gov",
+        "interval": 141,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://buzzfeednews.com",
+        "interval": 81,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://jstor.org",
+        "interval": 14,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adssettings.google.com",
+        "interval": 31,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://iheart.com",
+        "interval": 227,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://en-gb.facebook.com",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://foodnetwork.com",
+        "interval": 251,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://eventim.de",
+        "interval": 55,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://economictimes.indiatimes.com",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://presseportal.de",
+        "interval": 124,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.se",
+        "interval": 297,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://skillshare.com",
+        "interval": 35,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://puu.sh",
+        "interval": 259,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://examiner.com",
+        "interval": 213,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stripe.com",
+        "interval": 233,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://firstdata.com",
+        "interval": 144,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://en.advertisercommunity.com",
+        "interval": 244,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://download.microsoft.com",
+        "interval": 228,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://s-media-cache-ak0.pinimg.com",
+        "interval": 133,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ctt.ec",
+        "interval": 184,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cia.gov",
+        "interval": 80,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://docker.com",
+        "interval": 186,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://homedepot.com",
+        "interval": 258,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://humblebundle.com",
+        "interval": 57,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chiark.greenend.org.uk",
+        "interval": 181,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pandora.com",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.co.za",
+        "interval": 160,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://payhip.com",
+        "interval": 199,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thingiverse.com",
+        "interval": 269,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://inkscape.org",
+        "interval": 126,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://adobe.ly",
+        "interval": 72,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://css-tricks.com",
+        "interval": 156,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ja-jp.facebook.com",
+        "interval": 22,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://jamanetwork.com",
+        "interval": 147,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://maps.gstatic.com",
+        "interval": 186,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://wattpad.com",
+        "interval": 84,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chase.com",
+        "interval": 13,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cisco.com",
+        "interval": 282,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bmj.com",
+        "interval": 170,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://louvre.fr",
+        "interval": 57,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://aclu.org",
+        "interval": 98,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://squarespace.com",
+        "interval": 55,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gum.co",
+        "interval": 155,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://idealo.de",
+        "interval": 179,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://imore.com",
+        "interval": 121,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rakuten.com",
+        "interval": 103,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fbi.gov",
+        "interval": 197,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://united.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.pt",
+        "interval": 91,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://event.on24.com",
+        "interval": 146,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nejm.org",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://colorado.edu",
+        "interval": 130,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://franchising.com",
+        "interval": 101,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://logitech.com",
+        "interval": 138,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://redbull.com",
+        "interval": 48,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tf1.fr",
+        "interval": 163,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://keep.google.com",
+        "interval": 26,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://hostinger.com",
+        "interval": 249,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nbc.com",
+        "interval": 66,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stats.g.doubleclick.net",
+        "interval": 218,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ign.com",
+        "interval": 231,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.hubspot.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://1.envato.market",
+        "interval": 134,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://accessdata.fda.gov",
+        "interval": 107,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.be",
+        "interval": 241,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://help.apple.com",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://technorati.com",
+        "interval": 217,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pond5.com",
+        "interval": 202,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ucl.ac.uk",
+        "interval": 230,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://a2hosting.com",
+        "interval": 118,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://amzn.asia",
+        "interval": 179,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nicovideo.jp",
+        "interval": 219,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://indiewire.com",
+        "interval": 72,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mp.weixin.qq.com",
+        "interval": 52,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://codeproject.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://1.usa.gov",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gleam.io",
+        "interval": 165,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://space.com",
+        "interval": 277,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://gitter.im",
+        "interval": 162,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lh5.ggpht.com",
+        "interval": 257,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://leparisien.fr",
+        "interval": 260,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://kotaku.com",
+        "interval": 153,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://img.youtube.com",
+        "interval": 109,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://huffingtonpost.co.uk",
+        "interval": 21,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://agoda.com",
+        "interval": 166,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://flow.microsoft.com",
+        "interval": 140,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://chronicle.com",
+        "interval": 122,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://createspace.com",
+        "interval": 209,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lh3.ggpht.com",
+        "interval": 40,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://verizon.com",
+        "interval": 100,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://teespring.com",
+        "interval": 264,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://data.worldbank.org",
+        "interval": 278,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.goo.ne.jp",
+        "interval": 110,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://kobo.com",
+        "interval": 90,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://globalsign.com",
+        "interval": 276,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://money.yandex.ru",
+        "interval": 170,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://animoto.com",
+        "interval": 15,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://google.co.nz",
+        "interval": 135,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://privacy.microsoft.com",
+        "interval": 201,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://online.wsj.com",
+        "interval": 14,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://patft.uspto.gov",
+        "interval": 180,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rottentomatoes.com",
+        "interval": 139,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cell.com",
+        "interval": 146,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://de.linkedin.com",
+        "interval": 259,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://health.com",
+        "interval": 174,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://geni.us",
+        "interval": 137,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.harvard.edu",
+        "interval": 133,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lesechos.fr",
+        "interval": 91,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://fas.org",
+        "interval": 7,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://smashingmagazine.com",
+        "interval": 158,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://7-zip.org",
+        "interval": 152,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://realvnc.com",
+        "interval": 98,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://news.discovery.com",
+        "interval": 280,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://mlb.com",
+        "interval": 262,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://autodesk.com",
+        "interval": 20,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://popularmechanics.com",
+        "interval": 126,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://forms.office.com",
+        "interval": 183,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://rdio.com",
+        "interval": 209,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://sendspace.com",
+        "interval": 102,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://synology.com",
+        "interval": 83,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://angelfire.com",
+        "interval": 199,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://france24.com",
+        "interval": 192,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://us.battle.net",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stjude.org",
+        "interval": 220,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://denverpost.com",
+        "interval": 122,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://japantimes.co.jp",
+        "interval": 190,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stocktwits.com",
+        "interval": 155,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogs.adobe.com",
+        "interval": 180,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://envato.com",
+        "interval": 167,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://airtable.com",
+        "interval": 92,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ticketmaster.com",
+        "interval": 245,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ocw.mit.edu",
+        "interval": 43,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://whc.unesco.org",
+        "interval": 34,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://neh.gov",
+        "interval": 147,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://purl.org",
+        "interval": 158,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nfl.com",
+        "interval": 76,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://monster.com",
+        "interval": 125,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://codex.wordpress.org",
+        "interval": 92,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://dafont.com",
+        "interval": 39,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://tesla.com",
+        "interval": 100,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lmgtfy.com",
+        "interval": 298,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://olympic.org",
+        "interval": 200,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://technet.microsoft.com",
+        "interval": 205,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://baidu.com",
+        "interval": 196,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://desktop.github.com",
+        "interval": 183,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://overcast.fm",
+        "interval": 295,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://allmusic.com",
+        "interval": 75,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cdbaby.com",
+        "interval": 211,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vsco.co",
+        "interval": 208,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://nvidia.com",
+        "interval": 57,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://stadt-bremerhaven.de",
+        "interval": 226,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://faa.gov",
+        "interval": 9,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blogs.yahoo.co.jp",
+        "interval": 115,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://bild.de",
+        "interval": 169,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://lenovo.com",
+        "interval": 122,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://funnyordie.com",
+        "interval": 44,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ssl.google-analytics.com",
+        "interval": 189,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://abebooks.com",
+        "interval": 113,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://spectrum.ieee.org",
+        "interval": 256,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://thinkgeek.com",
+        "interval": 26,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://snip.ly",
+        "interval": 187,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://pixiv.net",
+        "interval": 193,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://buzzsprout.com",
+        "interval": 299,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://patents.google.com",
+        "interval": 197,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://orcid.org",
+        "interval": 136,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://cdn.ampproject.org",
+        "interval": 61,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://blog.feedspot.com",
+        "interval": 151,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://vr.google.com",
+        "interval": 209,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://opinionator.blogs.nytimes.com",
+        "interval": 125,
+        "regex_pattern": null
+    },
+    {
+        "url": "https://ericsson.com",
+        "interval": 296,
+        "regex_pattern": null
+    }
+]
